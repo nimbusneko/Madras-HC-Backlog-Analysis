@@ -1,0 +1,66 @@
+bench,side,division,category,opening,filed,disposed,closing_published
+Principal Seat,Civil,Original Side,Civil Suits,2481,251,603,1999
+Principal Seat,Civil,Original Side,Testamentary Original Suits,518,41,106,453
+Principal Seat,Civil,Original Side,Matrimonial Suits,1,0,0,1
+Principal Seat,Civil,Original Side,Insolvency Cases,209,53,108,154
+Principal Seat,Civil,Original Side,Company Petitions (Winding Up),382,0,13,369
+Principal Seat,Civil,Original Side,Company Petitions (Amalgamation),415,0,5,410
+Principal Seat,Civil,Original Side,Company Petitions (Sec 463 Show Cause),43,2,15,30
+Principal Seat,Civil,Original Side,Arbitration - Interim Relief,5441,1124,1123,5429
+Principal Seat,Civil,Original Side,Arbitration - Section 34 Petitions,336,113,74,375
+Principal Seat,Civil,Original Side,Arbitration - Interlocutory Applications,174,673,594,253
+Principal Seat,Civil,Original Side,Arbitration - Others,23,0,0,23
+Principal Seat,Civil,Original Side,Original Petitions (Indian Succession Act),1581,689,754,1516
+Principal Seat,Civil,Original Side,Original Petitions (Guardian & Wards / Other),359,171,138,392
+Principal Seat,Civil,Original Side,Execution Petitions,1848,112,128,1832
+Principal Seat,Civil,Original Side,Election Petitions,17,1,7,11
+Principal Seat,Civil,Original Side,Contempt Petitions (Single Bench),1791,2690,2678,1803
+Principal Seat,Civil,Original Side,Contempt Petitions (Division Bench),827,390,674,543
+Principal Seat,Civil,Original Side,Leave to Sue as Indigent Person,11,0,0,11
+Principal Seat,Civil,Original Side,Court Fees Act Valuation Applications,38,0,0,38
+Principal Seat,Civil,Appellate Side,First Appeals,4151,839,781,4209
+Principal Seat,Civil,Appellate Side,Original Side Appeals,1068,257,253,1072
+Principal Seat,Civil,Appellate Side,Original Side Appeals (Commercial),0,169,122,47
+Principal Seat,Civil,Appellate Side,Letters Patent Appeals,60,12,48,24
+Principal Seat,Civil,Appellate Side,Writ Appeals,7613,3601,4416,6798
+Principal Seat,Civil,Appellate Side,Second Appeals,10563,921,1406,10078
+Principal Seat,Civil,Appellate Side,Appeals Against Orders,9672,3151,4600,8223
+Principal Seat,Civil,Appellate Side,Appeals Against Appellate Orders,196,62,90,168
+Principal Seat,Civil,Appellate Side,Company Appeals,61,0,22,39
+Principal Seat,Civil,Appellate Side,Civil Revision Petitions,7187,5088,5431,6844
+Principal Seat,Civil,Appellate Side,Tax Cases,3958,1027,503,4482
+Principal Seat,Civil,Appellate Side,Review Applications (Appellate),1538,230,186,1582
+Principal Seat,Civil,Appellate Side,Referred Cases,82,0,0,82
+Principal Seat,Civil,Appellate Side,Special Tribunal Cases,273,40,3,310
+Principal Seat,Civil,Appellate Side,Contempt Appeals,14,23,4,33
+Principal Seat,Civil,Appellate Side,Referred Case Petitions,10,0,0,10
+Principal Seat,Civil,Appellate Side,Cross Objections,498,101,127,472
+Principal Seat,Civil,Appellate Side,Commercial Cases,714,332,409,637
+Principal Seat,Civil,Appellate Side,Intellectual Property Rights Cases,0,1136,567,569
+Principal Seat,Civil,Writ Jurisdiction,Writ Petitions,68055,36546,46947,57633
+Principal Seat,Civil,Writ Jurisdiction,Review Applications (Writ),1746,239,231,1754
+Madurai Bench,Civil,Madurai Civil,Writ Petitions,42055,31375,36899,36531
+Madurai Bench,Civil,Madurai Civil,Review Applications (Writ),326,259,176,409
+Madurai Bench,Civil,Madurai Civil,Second Appeals,10887,806,1267,10426
+Madurai Bench,Civil,Madurai Civil,Civil Revision Petitions,4748,3475,3642,4581
+Madurai Bench,Civil,Madurai Civil,Appeals Against Orders,5343,1351,1641,5053
+Madurai Bench,Civil,Madurai Civil,First Appeals,1575,377,277,1675
+Madurai Bench,Civil,Madurai Civil,Writ Appeals,4688,2202,2114,4776
+Madurai Bench,Civil,Madurai Civil,Contempt Petitions (Madurai),2071,2667,2233,2505
+Madurai Bench,Civil,Madurai Civil,Tax Cases,99,0,29,70
+Madurai Bench,Civil,Madurai Civil,Review Applications (Appellate),556,104,142,518
+Madurai Bench,Civil,Madurai Civil,Appeals Against Appellate Orders,304,24,68,260
+Madurai Bench,Civil,Madurai Civil,Cross Objections,293,49,52,290
+Madurai Bench,Civil,Madurai Civil,Special Tribunal Cases,45,0,31,14
+Madurai Bench,Civil,Madurai Civil,Contempt Appeals,25,11,9,27
+Madurai Bench,Civil,Madurai Civil,Letters Patent Appeals,7,4,1,10
+Principal Seat,Criminal,Criminal,Referred Trials,3,0,1,2
+Principal Seat,Criminal,Criminal,Criminal Appeals,3830,1745,990,4585
+Principal Seat,Criminal,Criminal,Criminal Revision Cases,2243,2290,2060,2473
+Principal Seat,Criminal,Criminal,Criminal Original Petitions,6607,29357,30852,5112
+Principal Seat,Criminal,Criminal,Habeas Corpus Petitions,1238,2577,3250,565
+Principal Seat,Criminal,Criminal,Criminal Reference,1,0,0,1
+Madurai Bench,Criminal,Criminal,Criminal Appeals,2224,1131,525,2830
+Madurai Bench,Criminal,Criminal,Habeas Corpus Petitions,664,1641,2023,282
+Madurai Bench,Criminal,Criminal,Criminal Revision Cases,1683,1454,1323,1814
+Madurai Bench,Criminal,Criminal,Criminal Original Petitions,6336,23640,22572,7404
